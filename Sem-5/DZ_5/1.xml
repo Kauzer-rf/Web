@@ -1,11 +1,9 @@
 <?xml version="1.0"?>
-<workers>
-    <user>
-        <name>"Иван"</name>
-        <surname>"Иванов"</surname>
-        <patronymic>"Иванович"</patronymic>
-        <age>"30"</age>
-        <phone>"+79267664848"</phone>
-        <birthplace>"Москва"</birthplace>
-    </user>
-</workers>
+<user>
+    <name>Иван</name>
+    <surname>Иванов</surname>
+    <patronymic>Иванович</patronymic>
+    <age>30</age>
+    <phone>+79267664848</phone>
+    <birthplace>Москва</birthplace>
+</user>
